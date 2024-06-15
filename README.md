@@ -33,7 +33,7 @@ Answer the following questions based on your understanding of the installation a
    - If you selected the option to create a desktop icon, double-click the Visual Studio Code icon on your desktop.
    - Alternatively, search for "Visual Studio Code" in the Start menu and click to open it.
 
-## First-time Setup:
+## 2. First-time Setup:
    ### After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
 
 
@@ -106,7 +106,7 @@ Answer the following questions based on your understanding of the installation a
    - **Interactive Elements:** Clickable items to change settings or view details.
    - **Purpose:** Provides real-time feedback and status updates related to your work.
 
-## 5. Command Palette:
+## 4. Command Palette:
   ### What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
  
  The Command Palette in Visual Studio Code is a powerful tool that provides quick access to various commands and settings. It allows you to perform tasks efficiently without navigating through menus.
@@ -147,7 +147,7 @@ Answer the following questions based on your understanding of the installation a
     - Type `Preferences: Open Settings` to access and configure settings.
 
 
-## 6. Extensions in VS Code:
+## 5. Extensions in VS Code:
   ### Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
 
 #### Role of Extensions in VS Code:
@@ -195,7 +195,7 @@ Extensions enhance Visual Studio Code by adding new features and functionalities
 7. **Path Intellisense:**
    - Auto-completes filenames as you type them in your code, making it easier to reference files.
 
-## 7. Integrated Terminal:
+## 6. Integrated Terminal:
   ### Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?
 
   #### Opening and Using the Integrated Terminal in VS Code:
@@ -229,7 +229,7 @@ Extensions enhance Visual Studio Code by adding new features and functionalities
    - **Themes and Appearance:** Customize the terminal's appearance to match your VS Code theme and preferences.
    - **Persistent Sessions:** Keep terminal sessions active across different projects and sessions.
 
-## 8. File and Folder Management:
+## 7. File and Folder Management:
   ### Explain how to create, open, and manage files and folders in VS Code. How can users navigate between different files and directories efficiently?
 
   #### Creating, Opening, and Managing Files and Folders in VS Code:
@@ -292,7 +292,7 @@ Extensions enhance Visual Studio Code by adding new features and functionalities
    - **Functionality:** Work with multiple project folders within a single VS Code window, facilitating easy navigation and management across different projects.
 
 
-## 9. Settings and Preferences:
+## 8. Settings and Preferences:
   ### Where can users find and customize settings in VS Code? Provide examples of how to change the theme, font size, and keybindings.
 
   #### Finding and Customizing Settings in VS Code:
@@ -335,7 +335,7 @@ Extensions enhance Visual Studio Code by adding new features and functionalities
      ```
    
 
-## 10. Debugging in VS Code:
+## 9. Debugging in VS Code:
   ### Outline the steps to set up and start debugging a simple program in VS Code. What are some key debugging features available in VS Code?
 
 #### Steps to Set Up and Start Debugging in VS Code
@@ -415,7 +415,7 @@ Extensions enhance Visual Studio Code by adding new features and functionalities
 10. Remote Debugging:
     - Debug applications running on a different machine by setting up remote debugging configurations.
 
-## 11. Using Source Control:
+## 10. Using Source Control:
   ### How can users integrate Git with VS Code for version control? Describe the process of initializing a repository, making commits, and pushing changes to GitHub.
 
 #### 1. Initialize a Git Repository
